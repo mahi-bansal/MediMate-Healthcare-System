@@ -1,0 +1,103 @@
+hospital,pincode,address,phone,latitude,longitude
+AIIMS Delhi,110029,Ansari Nagar,+91-11-26864851,28.5672,77.2100
+Safdarjung Hospital,110029,Ansari Nagar West,+91-11-26174144,28.5680,77.2105
+Ram Manohar Lohia Hospital,110001,Baba Kharak Singh Marg,+91-11-23365525,28.6270,77.2085
+LNJP Hospital,110002,Delhi Gate,+91-11-23233400,28.6415,77.2380
+G B Pant Hospital,110002,JLN Marg,+91-11-23234242,28.6420,77.2390
+Deen Dayal Upadhyaya Hospital,110064,Hari Nagar,+91-11-25400336,28.6304,77.1100
+Sir Ganga Ram Hospital,110060,Old Rajinder Nagar,+91-11-25712389,28.6405,77.1900
+BLK-Max Hospital,110005,Pusa Road,+91-11-30403040,28.6448,77.1903
+Moolchand Hospital,110024,Lajpat Nagar,+91-11-26832461,28.5670,77.2430
+Indraprastha Apollo Hospital,110076,Sarita Vihar,+91-11-26925858,28.5410,77.2830
+Holy Family Hospital,110025,Okhla Road,+91-11-26845900,28.5605,77.2740
+Fortis Escorts Heart Institute,110025,Okhla Road,+91-11-47135000,28.5610,77.2735
+Batra Hospital,110062,Tughlakabad,+91-11-29958747,28.5135,77.2950
+PSRI Hospital,110017,Sheikh Sarai,+91-11-26222516,28.5270,77.2200
+Venkateshwar Hospital,110075,Dwarka,+91-11-48555555,28.5930,77.0450
+Aakash Healthcare,110075,Dwarka,+91-11-71111111,28.5920,77.0460
+St Stephens Hospital,110054,Tis Hazari,+91-11-23966021,28.6660,77.2160
+Sant Parmanand Hospital,110054,Civil Lines,+91-11-23981260,28.6810,77.2250
+Rajiv Gandhi Cancer Institute,110085,Rohini,+91-11-27051011,28.7340,77.1180
+Jaipur Golden Hospital,110085,Rohini,+91-11-27260935,28.7280,77.1140
+Sunder Lal Jain Hospital,110052,Ashok Vihar,+91-11-27119964,28.6950,77.1780
+Kalra Hospital,110015,Kirti Nagar,+91-11-25123117,28.6500,77.1400
+Khetrapal Hospital,110015,Bali Nagar,+91-11-25451955,28.6520,77.1360
+Kolmet Hospital,110005,Pusa Road,+91-11-25752055,28.6455,77.1905
+National Heart Institute,110065,East of Kailash,+91-11-26415065,28.5625,77.2470
+Vimhans Hospital,110065,Nehru Nagar,+91-11-26310510,28.5640,77.2510
+Indian Spinal Injuries Centre,110070,Vasant Kunj,+91-11-26896642,28.5200,77.1500
+Primus Hospital,110021,Chanakyapuri,+91-11-66206630,28.5880,77.1880
+Vasant Lok Hospital,110057,Vasant Vihar,+91-11-26149423,28.5675,77.1600
+Holy Angels Hospital,110057,Vasant Vihar,+91-11-24100561,28.5665,77.1580
+Medanta The Medicity,122001,Gurugram,+91-124-4141414,28.4380,77.0400
+Artemis Hospital,122001,Gurugram,+91-124-4511111,28.4590,77.0720
+Fortis Memorial Research Institute,122002,Gurugram,+91-124-4921021,28.4500,77.1000
+Max Hospital Gurugram,122001,Gurugram,+91-124-6623000,28.4605,77.0850
+Paras Hospital,122002,Gurugram,+91-124-4585555,28.4520,77.0820
+CK Birla Hospital,122002,Gurugram,+91-124-4882200,28.4595,77.0870
+Narayana Superspeciality Hospital,122001,Gurugram,+91-124-4219000,28.4395,77.0480
+Park Hospital,122001,Gurugram,+91-124-4900000,28.4410,77.0500
+Columbia Asia Hospital Gurugram,122002,Gurugram,+91-124-3989898,28.4710,77.0900
+Jaypee Hospital,201304,Noida,+91-120-4122222,28.5140,77.4100
+Fortis Hospital Noida,201301,Noida,+91-120-2400222,28.6140,77.3620
+Max Super Speciality Noida,201301,Noida,+91-120-2549999,28.5850,77.3250
+Kailash Hospital Noida,201301,Noida,+91-120-2444444,28.5865,77.3290
+Metro Hospital Noida,201301,Noida,+91-120-2533491,28.5900,77.3350
+Cloudnine Hospital Noida,201301,Noida,+91-9971029971,28.5890,77.3370
+Felix Hospital,201309,Noida Extension,+91-120-4880000,28.5800,77.4000
+Sharda Hospital,201310,Greater Noida,+91-120-4570000,28.4740,77.5000
+Yashoda Hospital,201013,Ghaziabad,+91-120-4188888,28.6430,77.3230
+Max Hospital Vaishali,201010,Ghaziabad,+91-120-4173000,28.6460,77.3180
+Columbia Asia Hospital Ghaziabad,201012,Ghaziabad,+91-120-3989898,28.6690,77.3700
+Sarvodaya Hospital,121001,Faridabad,+91-129-4184444,28.4080,77.3170
+Asian Institute of Medical Sciences,121001,Faridabad,+91-129-4253000,28.4100,77.3150
+QRG Central Hospital,121001,Faridabad,+91-129-4090300,28.4130,77.3200
+Fortis Hospital Faridabad,121001,Faridabad,+91-129-4277777,28.3950,77.3120
+Apollo Spectra Hospital,110048,Delhi,+91-11-40043333,28.5415,77.2520
+Fortis Hospital Shalimar Bagh,110088,Delhi,+91-11-45302222,28.7140,77.1650
+Max Hospital Shalimar Bagh,110088,Delhi,+91-11-66422222,28.7130,77.1680
+Deep Chand Bandhu Hospital,110033,Delhi,+91-11-27213116,28.7300,77.1800
+Acharya Bhikshu Hospital,110017,Delhi,+91-11-29251111,28.5200,77.2000
+Guru Gobind Singh Hospital,110018,Delhi,+91-11-28511442,28.6200,77.0900
+Bhagwan Mahavir Hospital,110085,Delhi,+91-11-27532222,28.7300,77.1200
+Dr Hedgewar Hospital,110032,Delhi,+91-11-22370000,28.6900,77.2900
+Swami Dayanand Hospital,110095,Delhi,+91-11-22110000,28.6800,77.3000
+Jag Pravesh Chandra Hospital,110053,Delhi,+91-11-22184453,28.6600,77.2600
+Chacha Nehru Bal Hospital,110031,Delhi,+91-11-21202121,28.6500,77.2900
+Burari Hospital,110084,Delhi,+91-11-27619222,28.7600,77.2000
+Maharishi Valmiki Hospital,110033,Delhi,+91-11-27215421,28.7300,77.1900
+Babu Jagjivan Ram Hospital,110043,Delhi,+91-11-25318555,28.6100,77.0400
+Aruna Asaf Ali Hospital,110070,Delhi,+91-11-24104141,28.5200,77.1700
+Rao Tula Ram Hospital,110077,Delhi,+91-11-25035353,28.6000,77.0300
+Lal Bahadur Shastri Hospital,110092,Delhi,+91-11-22580000,28.6300,77.3000
+Guru Teg Bahadur Hospital,110095,Delhi,+91-11-22286262,28.6805,77.3100
+Max Smart Super Speciality Hospital Saket,110017,Saket Delhi,+91-11-26515050,28.5275,77.2150
+Pushpawati Singhania Hospital,110017,Sheikh Sarai,+91-11-30611999,28.5285,77.2190
+Sitaram Bhartia Hospital,110016,Qutub Institutional Area,+91-11-42111800,28.5350,77.1850
+Rockland Hospital Qutub,110030,Qutub Institutional Area,+91-11-46646666,28.5330,77.1855
+Rockland Hospital Dwarka,110075,Dwarka,+91-11-45678900,28.5900,77.0400
+Ayushman Hospital Dwarka,110075,Dwarka,+91-11-28032000,28.5925,77.0420
+Shanti Mukand Hospital,110092,Karkardooma,+91-11-22383456,28.6480,77.3010
+Max Super Speciality Hospital Patparganj,110092,Patparganj,+91-11-43033333,28.6400,77.2900
+Surya Hospital,110092,Krishna Nagar,+91-11-22002800,28.6560,77.2790
+Kukreja Hospital,110018,Janakpuri,+91-11-25550000,28.6210,77.0920
+Park Hospital Meera Bagh,110063,Paschim Vihar,+91-11-45323232,28.6700,77.1100
+Bensups Hospital,110018,Janakpuri,+91-11-25531234,28.6220,77.0950
+Sehgal Neo Hospital,110018,Janakpuri,+91-11-25536300,28.6240,77.0930
+Shivam Hospital,110032,Shahdara,+91-11-22345678,28.6880,77.2890
+Durga Hospital,110092,Laxmi Nagar,+91-11-22049999,28.6350,77.2770
+W Pratiksha Hospital,122002,Gurugram,+91-124-4888888,28.4600,77.0855
+Fortis Hospital Manesar,122050,Manesar,+91-124-4962200,28.3500,76.9400
+ESIC Hospital Gurugram,122015,Basant Vihar,+91-124-2294000,28.4800,77.0300
+Sheetla Hospital,122001,Gurugram,+91-124-2322222,28.4700,77.0300
+Yatharth Hospital Noida Extension,201009,Greater Noida West,+91-120-6900000,28.6000,77.3800
+Yatharth Hospital Noida Sector 110,201304,Noida,+91-120-7150000,28.5200,77.3700
+Kailash Hospital Greater Noida,201310,Greater Noida,+91-120-2322222,28.4705,77.5100
+Ivory Hospital,201305,Noida Sector 51,+91-120-3111111,28.5855,77.3500
+Columbia Asia Hospital Palam Vihar,122017,Gurugram,+91-124-3989898,28.5000,77.0400
+Manipal Hospital Ghaziabad,201010,Vaishali,+91-120-4173000,28.6475,77.3200
+Yashoda Hospital Nehru Nagar,201001,Ghaziabad,+91-120-4189500,28.6700,77.4200
+Shanti Gopal Hospital,201010,Indirapuram,+91-120-4777000,28.6400,77.3700
+Metro Heart Institute Faridabad,121001,Faridabad,+91-129-4277777,28.4100,77.3200
+Sarvodaya Hospital Sec 8,121006,Faridabad,+91-129-4184444,28.3900,77.3100
+QRG Health City,121003,Faridabad,+91-129-4090300,28.4200,77.3000
